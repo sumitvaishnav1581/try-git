@@ -1,4 +1,4 @@
 # try-git
 This is my first git repository
 <br>
-Author name:-Sumit vaishnav
+Author name:-Sumit vaishnav(Software Devloper)
